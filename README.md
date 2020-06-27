@@ -1,5 +1,5 @@
 # mathprolib
-[![star](https://gitee.com/index-1048576/mathlib/badge/star.svg?theme=white)](https://gitee.com/index-1048576/mathlib/stargazers)  [![fork](https://gitee.com/index-1048576/mathlib/badge/fork.svg?theme=white)](https://gitee.com/index-1048576/mathlib/members)
+
 
 9种编程语言通用的数学运算专用库，使用简单，内含三角学、分数运算、科学计算法等实用功能。
 
